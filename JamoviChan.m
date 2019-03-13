@@ -1,8 +1,8 @@
-function matrix=JamoviChan(chan,fs,PSDchanFNSZ,PSDchanGNSZ)
+function matrix=JamoviPSDtemporale(chan,fs,PSDchanFNSZ,PSDchanGNSZ)
 chan=19;%19 canali
 epoch=6;%da 5 secondi
 bande=5;%delta,gamma,beta,alpha,theta
-%qui ho inserito un \ in più
+%qui ho inserito un \ in piÃ¹
 fs=250;
 estensione='*.mat';
 %CHAN
